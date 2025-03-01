@@ -24,14 +24,23 @@ ur os i have selected lite and give next
 ![](https://github.com/user-attachments/assets/492ad5ed-9301-400d-9352-19a0ce368133)
 
 after this customise ur setting by cicking edit settings
-![image](https://github.com/user-attachments/assets/0fae4be7-6481-477c-b4f8-473a05cd0b4c)
+![](https://github.com/user-attachments/assets/0fae4be7-6481-477c-b4f8-473a05cd0b4c)
 
 ##### do enable ssh , its very important
-![image](https://github.com/user-attachments/assets/26eea602-21cb-4d83-b5e5-be04ea3a0bdf)
+![](https://github.com/user-attachments/assets/26eea602-21cb-4d83-b5e5-be04ea3a0bdf)
 
 and start downloading the os in ur memory device
 
 now u have downloaded ur os 
+now to access ur open command prompt / powershell in administrator mode
+find the ip of ur pi from the routers website now to connect with ssh
+enter `ssh <ip of ur pi device>`
+enter passwd if set 
 
+and this shall be the final screen after set up
+![](https://github.com/user-attachments/assets/70f6a02d-7fab-40ae-b494-613c3031dde1)
+
+to know if pi is linked with the system use
+enter `ping <pi's ip?>`
 
 
