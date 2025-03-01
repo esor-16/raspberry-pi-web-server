@@ -25,10 +25,10 @@ after downloading choose ur device here raspbery pi 5
 ur os i have selected lite and give next
 ![](https://github.com/user-attachments/assets/492ad5ed-9301-400d-9352-19a0ce368133)
 
-after this customise ur setting by cicking edit settings
-![](https://github.com/user-attachments/assets/0fae4be7-6481-477c-b4f8-473a05cd0b4c)
+after this customise ur setting by cicking edit settings  
+![](https://github.com/user-attachments/assets/0fae4be7-6481-477c-b4f8-473a05cd0b4c)  
 
-##### do enable ssh , its very important
+##### do enable ssh , its very important  
 ![](https://github.com/user-attachments/assets/26eea602-21cb-4d83-b5e5-be04ea3a0bdf)
 
 and start downloading the os in ur memory device
