@@ -15,8 +15,10 @@ so we have a few mini steps if u haven't set up ur raspberry pi
 since we're hosting a server i have gone with raspberry pi os lite  
 u can u whatever u want depending on the neccesssity  
 
-so first let's download a raspberry pi imager to load the os into ur ssd or sd card  
+so first let's download a raspberry pi imager to load the os into ur ssd or sd card
+
 [rpi imager](https://www.raspberrypi.com/software/)
+
 ![](https://github.com/user-attachments/assets/1387aab4-6d41-4990-99f8-0b075f17079f)
 
 after downloading choose ur device here raspbery pi 5 
